@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    color: #D4FF00;
+    background-color: #004c80;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Isometra", serif;
+
+}
+
+
+
+#primeira_div {
+
+    height: 40%;
+}
+
+h1 {
+    color: #00FFFF;
+
+}
+
+#id {
+    color: #D4FF00;
+    font-size: 2rem;
+    font-weight: bold;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* font-size: ;     */
+}
+
+.classe {
+    background-color: black;
+    color: crimson;
+}
+span{
+    font-weight: bolder;
+/* font-size: 2rem;
+background-color: black; */
+/* font-family: Arial, Helvetica, sans-serif; */
+}

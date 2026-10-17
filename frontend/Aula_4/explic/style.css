@@ -1,0 +1,12 @@
+img{
+    /* width: 70vw; */
+    /* height: 50vh; */
+    /* max-width: 50vw;
+    max-height: 50vh;
+    min-height: 30vh; */
+    /* object-fit: contain; */
+    /* object-position: center; */
+    background-color: black;
+    aspect-ratio: 16/9;
+    max-width: 100%;
+}   
